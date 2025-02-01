@@ -7,7 +7,7 @@ demonstrate the ability to collect, work with and clean a data set.
 
 ## Files in the repository
 
--   **`run_analysis.R`**\`: the R script that performs the required data
+-   **`run_analysis.R`**\: the R script that performs the required data
     manipulations. The data for the project can be downloaded from here:
     <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 
@@ -26,10 +26,10 @@ files:
     set with the average of each variable for each activity and each
     subject.
 
--   **`tidy_data.txt`**\`: this file contains the tidy data set created
+-   **`tidy_data.txt`**\: this file contains the tidy data set created
     in step 5.
 
--   **`code_book.md`**\`: this file contains the details of the data,
+-   **`code_book.md`**\: this file contains the details of the data,
     the variables, the analysis and the transformations performed
 
 ## About the data
